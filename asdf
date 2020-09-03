@@ -1,0 +1,32 @@
+warning: LF will be replaced by CRLF in abc.java.
+The file will have its original line endings in your working directory
+[1mdiff --git a/abc.java b/abc.java[m
+[1mindex e69de29..9ab3654 100644[m
+[1m--- a/abc.java[m
+[1m+++ b/abc.java[m
+[36m@@ -0,0 +1,17 @@[m
+[32m+[m[32mihfgdoaoobasboasboas[m
+[32m+[m[32masdf[m
+[32m+[m[32masd[m
+[32m+[m[32mf[m
+[32m+[m[32msadf[m
+[32m+[m[32msadfas[m
+[32m+[m[32mdf[m
+[32m+[m[32masdfas[m
+[32m+[m[32mdf[m
+[32m+[m[32masf[m
+[32m+[m[32ma[m
+[32m+[m[32mstas[m
+[32m+[m[32mdf[m
+[32m+[m[32msa[m
+[32m+[m[32mdfas[m
+[32m+[m[32mf[m
+[32m+[m
+[1mdiff --git a/helloWorld.java b/helloWorld.java[m
+[1mindex b607d04..944d20c 100644[m
+[1m--- a/helloWorld.java[m
+[1m+++ b/helloWorld.java[m
+[36m@@ -1 +1,2 @@[m
+[31m-uhiuhiuhiuhuhjhiuhiuhihuhbiugiuiuyhjlasdfoiasdjflq[m
+[32m+[m[32muhiuhiuhiuhuhjhiuhiuhihuhbiugiuiuyhjlasdfoiasdjfladsfa[m
+[32m+[m[32m傻逼q[m
